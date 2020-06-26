@@ -2,4 +2,4 @@
 
 This combines Selenium Grid (Run on Moon in Kubernetes (Link here))
 
-![Diagram](Selenium_Model.png)
+![Diagram](Selenium_Model.PNG)
